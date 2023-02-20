@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    text-align: center;
+}
+
+
+
+p{color: red;
+font-size: xx-large;
+
+
+}
+.card1{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    margin: 20px;
+    border-radius: 10px;
+}
